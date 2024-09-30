@@ -1,0 +1,12 @@
+body{
+    background-color: skyblue;
+}
+
+#canvas{
+    margin-left: 300px;
+    margin-top: 50px;
+}
+h1{
+  color: blue;
+  margin-left: 550px;
+}
